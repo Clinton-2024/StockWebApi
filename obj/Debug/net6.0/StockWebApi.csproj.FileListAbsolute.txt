@@ -13,7 +13,6 @@ E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\StockWebApi.runtimeconfig.json
 E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\StockWebApi.dll
 E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\StockWebApi.pdb
 E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\AutoMapper.dll
-E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\Humanizer.dll
 E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -75,3 +74,8 @@ E:\APP\HotBox\StockWebApi\obj\Debug\net6.0\refint\StockWebApi.dll
 E:\APP\HotBox\StockWebApi\obj\Debug\net6.0\StockWebApi.pdb
 E:\APP\HotBox\StockWebApi\obj\Debug\net6.0\StockWebApi.genruntimeconfig.cache
 E:\APP\HotBox\StockWebApi\obj\Debug\net6.0\ref\StockWebApi.dll
+E:\APP\HotBox\StockWebApi\obj\Debug\net6.0\StockWebApi.sourcelink.json
+E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\MailKit.dll
+E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\MimeKit.dll
+E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\NETCore.MailKit.dll
+E:\APP\HotBox\StockWebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
